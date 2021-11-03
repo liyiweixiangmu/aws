@@ -1,0 +1,8 @@
+path = "share"
+
+[dev]
+    sbucket = ""
+    ibucket = ""
+    id = ""
+    secret = ""
+    region = "cn-northwest-1"
